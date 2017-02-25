@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "20170225_WinFormsEventsDemo", "20170225_WinFormsEventsDemo.csproj", "{DAB3F8D5-EB88-430D-A116-65C534E753B4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DAB3F8D5-EB88-430D-A116-65C534E753B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAB3F8D5-EB88-430D-A116-65C534E753B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAB3F8D5-EB88-430D-A116-65C534E753B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAB3F8D5-EB88-430D-A116-65C534E753B4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
